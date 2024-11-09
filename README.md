@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am a young adult developer from Europe. <br><br>I develop in my free time. I share my projects for free with the option of cash support via buying a license.<br><br>Titles/Aliases:<br> - TwoBitDev<br> - 0XC7R.</p>
+<p align="left">I am a young adult developer from Europe. <br><br>I develop in my free time. I share my projects for free with the option of cash support via <a href="https://codecanyon.net/user/twobitdev">buying a license.</a><br><br>Titles/Aliases:<br> - TwoBitDev<br> - 0XC7R.</p>
 
 ###
 
@@ -87,19 +87,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0XC7R&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/0XC7R/0XC7R/output/snake.svg" alt="Snake animation" />
-
-###
