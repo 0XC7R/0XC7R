@@ -87,3 +87,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
+
+###
+
+<h3 align="left"> 💰 Support me/donations</h3>
+- BTC: bc1q8mzhk0t90w05umxux66xr6k8e749q5uqtjyelc
+- LTC: Lf1ufQSZRi9XSJktFGfhKBHxeuGFgvz4DJ
+- XMR: 43wA89gGdoKB9Av2JwGYciJZHE1mjsj3bFt1xuo1h2RNfkD218za8WF6vNcDo7FijmhAA3sk1SUevNWxNhXFZkBnU6p9Mfh
+- ETH: 0x2cc24AE5fc62e3a2394FAEFb0AdAed4Dd1248D10
+
+###
