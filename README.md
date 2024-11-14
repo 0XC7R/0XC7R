@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am a young adult developer from Europe. <br><br>I develop in my free time. I share my projects for free with the option of cash support via <a href="https://codecanyon.net/user/twobitdev">buying a license.</a> or <a href="https://github.com/0XC7R#--support-medonations">by crypto donos</a><br><br>Titles/Aliases:<br> - TwoBitDev<br> - 0XC7R.</p>
+<p align="left">I am a young adult developer from Europe. <br><br>I develop in my free time. I share my projects for free with the option of cash support via <a href="https://codecanyon.net/user/twobitdev">buying a license.</a> or <a href="https://github.com/0XC7R#--support-medonations">by crypto donos</a><br><br>Titles/Aliases:<br> - TwoBitDev<br> - 0XC7R.</p><br> <a href="https://medium.com/@0xc7r">medium blog</a>
 
 ###
 
@@ -91,9 +91,9 @@
 ###
 
 <h3 align="left"> 💰 Support me/donations</h3>
-- BTC: bc1q8mzhk0t90w05umxux66xr6k8e749q5uqtjyelc
-- LTC: Lf1ufQSZRi9XSJktFGfhKBHxeuGFgvz4DJ
-- XMR: 43wA89gGdoKB9Av2JwGYciJZHE1mjsj3bFt1xuo1h2RNfkD218za8WF6vNcDo7FijmhAA3sk1SUevNWxNhXFZkBnU6p9Mfh
-- ETH: 0x2cc24AE5fc62e3a2394FAEFb0AdAed4Dd1248D10
+- BTC: bc1q8mzhk0t90w05umxux66xr6k8e749q5uqtjyelc <br>
+- LTC: Lf1ufQSZRi9XSJktFGfhKBHxeuGFgvz4DJ <br>
+- XMR: 43wA89gGdoKB9Av2JwGYciJZHE1mjsj3bFt1xuo1h2RNfkD218za8WF6vNcDo7FijmhAA3sk1SUevNWxNhXFZkBnU6p9Mfh <br>
+- ETH: 0x2cc24AE5fc62e3a2394FAEFb0AdAed4Dd1248D10 <br>
 
 ###
